@@ -1,4 +1,4 @@
-# CodeAlpha_CricketSTATSanalysis
+# CricketSTATSanalysis
 This is a cricket stats analysis of players that comprises of bowling and batting stat comparisions of  different players.
 
 This analysis report is a cricket stats analysis of different playes .
